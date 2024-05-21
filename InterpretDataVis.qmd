@@ -1,0 +1,28 @@
+---
+title: "Data in the Wild"
+author: "K.Lee"
+format: html
+editor: visual
+---
+
+## Data visualizations in the wild[^1]
+
+[^1]: This assignment is based on an assignment from [Amelia McNamara's STAT 336 course](https://ameliamn.github.io/STAT336/viz_in_the_wild.html)
+
+At this point in the semester, you've been noticing news stories or pop sci reporting about women/females in sports and athletics. Looking through your notes, select one data visualization or chart that you want to present to the class.
+
+You will do a *2-minute* presentation on your visualization, in front of the whole class. In your presentation, you will need to describe what the visualization shows.
+
+At the very least, be prepared to point out...
+
+-   What points are being made, and what questions might you have?
+
+-   What assumptions or claims about biology, anatomy, or physiology are being made?
+
+-   What evidence is being used?
+
+This is a very short presentation, so I want it to be low-stakes. You should practice your presentation to make sure you can complete it in the time allotted, but it can be conversational.
+
+This is a presentation without slides– you will bring the visualization up on the screen by using a weblink, and talk us through the visualization. You may want to zoom in on elements, but everything should be using the original visualization.
+
+To ensure that everyone selects a different visualization, please fill out this form to claim your visualization. Everyone should check the spreadsheet to make sure the visualization you want to use is available.
